@@ -1,11 +1,18 @@
-A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Database
-|  |
-| ------- |
-| [0584-find-customer-referee](https://github.com/Apurva107/LeetCode-SQL/tree/master/0584-find-customer-referee) |
-| [0595-big-countries](https://github.com/Apurva107/LeetCode-SQL/tree/master/0595-big-countries) |
-| [1258-article-views-i](https://github.com/Apurva107/LeetCode-SQL/tree/master/1258-article-views-i) |
-| [1827-invalid-tweets](https://github.com/Apurva107/LeetCode-SQL/tree/master/1827-invalid-tweets) |
-<!---LeetCode Topics End-->
+Welcome to the LeetCode SQL 50 Solutions repository! 🚀 This repo contains optimized SQL solutions for LeetCode SQL challenges, ranging from basic queries to advanced SQL techniques.
+<br>
+Each solution includes:
+✔️ Problem Statement 📜
+✔️ Optimized SQL Query 💡
+✔️ Explanation of the Approach 📝
+<br>
+Whether you're a beginner learning SQL looking to sharpen your skills, this repository is for you!
+<br>
+The SQL 50 on LeetCode provided an extensive collection of SQL problems covering a wide range of concepts and techniques. This challenge included easy, medium and hard level questions from various topics like-
+<br>
+Selects
+Basic Joins
+Basic Aggregate Functions
+Sorting and grouping
+Advanced Select and joins
+Subqueries
+Advanced String Functions / Regex / Clause
