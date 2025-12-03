@@ -25,3 +25,11 @@ Advanced Select and joins
 Subqueries
 <br>
 Advanced String Functions / Regex / Clause
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Database
+|  |
+| ------- |
+| [0620-not-boring-movies](https://github.com/Apurva107/LeetCode-SQL/tree/master/0620-not-boring-movies) |
+<!---LeetCode Topics End-->
