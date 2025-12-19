@@ -31,6 +31,7 @@ Advanced String Functions / Regex / Clause
 ## Database
 |  |
 | ------- |
+| [0197-rising-temperature](https://github.com/Apurva107/LeetCode-SQL/tree/master/0197-rising-temperature) |
 | [0620-not-boring-movies](https://github.com/Apurva107/LeetCode-SQL/tree/master/0620-not-boring-movies) |
 | [1068-product-sales-analysis-i](https://github.com/Apurva107/LeetCode-SQL/tree/master/1068-product-sales-analysis-i) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Apurva107/LeetCode-SQL/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
