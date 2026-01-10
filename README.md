@@ -1,30 +1,55 @@
-Welcome to the LeetCode SQL 50 Solutions repository! 🚀 This repo contains optimized SQL solutions for LeetCode SQL challenges, ranging from basic queries to advanced SQL techniques.
-<br>
-Each solution includes:
-<br>
-✔️ Problem Statement 📜
-<br>
-✔️ Optimized SQL Query 💡
-<br>
-✔️ Explanation of the Approach 📝
-<br>
-Whether you're a beginner learning SQL looking to sharpen your skills, this repository is for you!
-<br>
-The SQL 50 on LeetCode provided an extensive collection of SQL problems covering a wide range of concepts and techniques. This challenge included easy, medium and hard level questions from various topics like-
-<br>
-Selects
-<br>
-Basic Joins
-<br>
-Basic Aggregate Functions
-<br>
-Sorting and grouping
-<br>
-Advanced Select and joins
-<br>
-Subqueries
-<br>
-Advanced String Functions / Regex / Clause
+# 🚀 LeetCode SQL 50 Solutions
+
+Welcome to my **LeetCode SQL 50 Solutions** repository!
+
+This repository contains **solutions for all 50 LeetCode SQL problems**, showcasing my **SQL problem-solving skills**. Every query here is **solved and optimized by me**, covering topics from **basic SELECT statements** to **advanced joins, aggregations, and subqueries**.
+
+---
+
+## 🎯 What You’ll Find
+
+* **All 50 LeetCode SQL problems solved**
+* **Optimized SQL queries only**
+* **Organized by problem number** for easy navigation
+
+---
+
+## 📚 Topics Covered
+
+* **SELECT Queries** – Retrieving and filtering data
+* **Joins** – INNER, LEFT, RIGHT, multi-table joins
+* **Aggregate Functions** – COUNT, SUM, AVG, MIN, MAX
+* **Sorting & Grouping** – ORDER BY, GROUP BY, HAVING
+* **Subqueries & Nested Queries**
+* **Advanced String / Regex / Clause Operations** – CONCAT, SUBSTRING, REPLACE, REGEXP
+* **Advanced Clauses** – DISTINCT, CASE, LIMIT, OFFSET
+
+---
+
+## ⚡ Skills Highlighted
+
+* Efficient **problem-solving using SQL**
+* Ability to handle **basic to advanced SQL challenges**
+* Writing **clean, optimized queries**
+* Practical experience with **real-world SQL problem patterns**
+
+---
+
+## 🛠 How to Use
+
+1. Browse the folder by **problem name**
+2. Open a SQL file to view my **solution query**
+3. Test the query in **LeetCode SQL playground** or any SQL environment
+
+---
+
+## 🔗 Resources
+
+* [LeetCode SQL Problems](https://leetcode.com/problemset/database/)
+
+---
+
+
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
