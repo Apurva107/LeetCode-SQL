@@ -64,4 +64,5 @@ This repository contains **solutions for all 50 LeetCode SQL problems**, showcas
 | [1280-students-and-examinations](https://github.com/Apurva107/LeetCode-SQL/tree/master/1280-students-and-examinations) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Apurva107/LeetCode-SQL/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Apurva107/LeetCode-SQL/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
+| [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Apurva107/LeetCode-SQL/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 <!---LeetCode Topics End-->
