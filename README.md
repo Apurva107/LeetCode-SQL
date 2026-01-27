@@ -68,5 +68,6 @@ This repository contains **solutions for all 50 LeetCode SQL problems**, showcas
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Apurva107/LeetCode-SQL/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Apurva107/LeetCode-SQL/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1729-find-followers-count](https://github.com/Apurva107/LeetCode-SQL/tree/master/1729-find-followers-count) |
+| [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/Apurva107/LeetCode-SQL/tree/master/1731-the-number-of-employees-which-report-to-each-employee) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Apurva107/LeetCode-SQL/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 <!---LeetCode Topics End-->
